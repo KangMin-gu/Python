@@ -35,16 +35,19 @@ mem1 = {"num":1, "name":u"김구라", "isMan":True}
 mem2 = {"num":2, "name":u"해골", "isMan":False}
 
 # function type (javascript에서는 function a(){} 이렇게 만들었지만 python은 영역을 :과 들여쓰기로한다.) 
-def a():
+def a(): 
     pass #(pass 는 함수의 빈영역을 표시할때 쓴다.)
 
-def b():
+def b(): #(b()줄과 print 앞글자 줄이 들여쓰기로 맞아야한다.  )
     print 'one'
     print 'two'
     print 'three'
 
 # b 라는 함수 호출
 b()
+
+# b 함수의 참조 값을 c 에 대입 
+c=b #c 와 b는 같은 함수, c를 호출하면 b의 함수가 호출됨. 
 
 # None type
 emptyVar = None # java 의 null 이라고 이해 하면 된다.
