@@ -1,4 +1,6 @@
 eclipse.preferences.version=1
+encoding//test/AcornUtil.py=utf-8
+encoding//test/GuraUtil.py=utf-8
 encoding//test/Step01_Comment.py=utf-8
 encoding//test/Step02_DataType.py=utf-8
 encoding//test/Step03_Dict.py=utf-8
@@ -19,4 +21,9 @@ encoding//test/Step09_rawinput.py=utf-8
 encoding//test/Step10_string_format.py=utf-8
 encoding//test/Step10_string_format2.py=utf-8
 encoding//test/Step11_range.py=utf-8
+encoding//test/Step11_range2.py=utf-8
+encoding//test/Step12_Quiz.py=utf-8
+encoding//test/Step12_for.py=utf-8
+encoding//test/Step13_import.py=utf-8
+encoding//test/Step14_math.py=utf-8
 encoding//test/hello.py=utf-8
