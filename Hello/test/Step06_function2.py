@@ -10,5 +10,8 @@ def test1(arg1):
 
 test1('kim') 
 
+def test2(a, b):
+    print "a:", a, "b :", b
 
+test2(a=1, b=2)
 print "step06_function2.py 가 종료 됩니다." 
